@@ -1,1 +1,2 @@
-data/
+# Track everything in data folder
+# No ignore rules for data/

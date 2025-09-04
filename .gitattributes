@@ -1,1 +1,1 @@
-data/USCS-1999-2022-ASCII/*.TXT filter=lfs diff=lfs merge=lfs -text
+data/ filter=lfs diff=lfs merge=lfs -text
